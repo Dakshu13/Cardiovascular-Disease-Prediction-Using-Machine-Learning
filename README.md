@@ -1,4 +1,3 @@
-# Cardiovascular-Disease-Prediction-Using-Machine-Learning
 📋 Project Overview
 This project aims to predict the presence of cardiovascular disease (CVD) using various machine learning algorithms. Early prediction of CVD can assist healthcare providers in initiating preventive measures and treatments.
 The goal is to evaluate and compare multiple algorithms to find the best-performing model.
@@ -66,4 +65,6 @@ Random Forest Classifier was the best-performing model for predicting cardiovasc
 The project highlights the significance of comparing multiple algorithms for effective model selection.
 
 Future work can include hyperparameter tuning and more advanced ensemble techniques for better performance.
+
+
 
